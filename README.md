@@ -3,7 +3,7 @@
 Repository for Java exercises developed in the Java Developer Bootcamp by DIO.
 
 ## Java Developer
-Java é uma das linguagens back-end mais utilizada por desenvolvedores de todo o mundo. Neste bootcamp você aprenderá o passo a passo da tecnologia e desenvolverá projetos 100% práticos.<br>
+Java é uma das linguagens back-end mais utilizada por desenvolvedores de todo o mundo. <br>Neste bootcamp você aprenderá o passo a passo da tecnologia e desenvolverá projetos 100% práticos.<br>
  Intermediário<br>
  27 atividades<br>
  120 hrs<br>
