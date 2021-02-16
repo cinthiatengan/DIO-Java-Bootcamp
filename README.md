@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/cinthiatengan/MyAssets/blob/main/img/girlcode.gif" align="center" style="width: 100%" />
+</div>  
+
 # Digital Innovation One - Java Developer Bootcamp
 
 Repository for Java exercises developed in the Java Developer Bootcamp by DIO.
