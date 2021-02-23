@@ -37,7 +37,7 @@ public class exemploTreeMap {
         System.out.println(treeCapitais.firstEntry().getKey()+"---"+treeCapitais.firstEntry().getValue());
 
         //retorna a ultima capital no final da arvore
-        System.out.println(treeCapitais.lastEntry().getKey()+"--"+treeCapitais.lastEntry().getValue());]
+        System.out.println(treeCapitais.lastEntry().getKey()+"--"+treeCapitais.lastEntry().getValue());
 
         // exibe todas as capitais no console
         System.out.println(treeCapitais);

@@ -2,8 +2,8 @@ JavaList/ExerciciosList.java
  JavaList.ExerciciosList
 JavaList/exemploQueue.java
  JavaList.exemploQueue
-JavaList/exemploTreeMap.java
- JavaList.exemploTreeMap
+JavaList/exemploHashMap.java
+ JavaList.exemploHashMap
 JavaList/examploTreeSet.java
  JavaList.examploTreeSet
 JavaList/exemploLinkedHashSet.java
@@ -14,5 +14,7 @@ JavaList/exemploList.java
  JavaList.exemploList
 JavaList/exemploVector.java
  JavaList.exemploVector
-JavaList/exemploHashMap.java
- JavaList.exemploHashMap
+JavaList/exemploTreeMap.java
+ JavaList.exemploTreeMap
+JavaList/exemploHashTable.java
+ JavaList.exemploHashTable
