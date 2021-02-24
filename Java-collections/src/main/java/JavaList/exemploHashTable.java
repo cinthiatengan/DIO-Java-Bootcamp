@@ -26,6 +26,6 @@ public class exemploHashTable {
         int idadeEstudante = estudantes.get("Mariana");
         System.out.println(idadeEstudante);
         System.out.println(estudantes.size());
-        
+
     }
 }
